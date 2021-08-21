@@ -19,7 +19,7 @@ So for rendering the html pages we need to tell the browser what exactly we want
 So first of all browser construct the DOM(Document object model) and CSSOM(CSS object model) tree. DOM is nothing bu the transformed HTML markup and CSSOM is nothing but CSS markup transformed. They both are the independent data structure .Html dom is the object model for html. And it is API for javascript.javascript can change,remove and add html element,css styles,html attributes and it can react to html events.
 
 
-![Test image](https://www.google.com/imgres?imgurl=https%3A%2F%2F3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F11%2FScreenshot-2019-11-12-at-3.26.19-PM.png&imgrefurl=https%3A%2F%2Fwww.browserstack.com%2Fguide%2Fbrowser-rendering-engine&tbnid=rG61oWFJN-1OaM&vet=12ahUKEwjS8tf7icLyAhVAk0sFHcE4AacQMygCegUIARCwAQ..i&docid=sZHjp2obcjtLFM&w=749&h=147&q=rendering%20engine%20browser&ved=2ahUKEwjS8tf7icLyAhVAk0sFHcE4AacQMygCegUIARCwAQ/.png)
+![Test image](Screenshot-2019-11-12-at-3.26.19-PM.png)
 
 Now we start a plain html file for example-
 
